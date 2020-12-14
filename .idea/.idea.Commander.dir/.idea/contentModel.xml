@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commander.csproj" t="IncludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="AuthenticationController.cs" t="Include" />
+        <e p="CommandsController.cs" t="Include" />
+      </e>
+      <e p="DTOModels" t="Include">
+        <e p="CommandCreateDTO.cs" t="Include" />
+        <e p="CommandReadDTO.cs" t="Include" />
+        <e p="ResponseModelDTO.cs" t="Include" />
+        <e p="UserCreateDTO.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20201106151449_UpdateDataBase.cs" t="Include" />
+        <e p="20201106151449_UpdateDataBase.Designer.cs" t="Include" />
+        <e p="20201109101353_AddingRoleTable.cs" t="Include" />
+        <e p="20201109101353_AddingRoleTable.Designer.cs" t="Include" />
+        <e p="20201109101520_AddingRoleTableTODatabase.cs" t="Include" />
+        <e p="20201109101520_AddingRoleTableTODatabase.Designer.cs" t="Include" />
+        <e p="20201110103512_createTables.cs" t="Include" />
+        <e p="20201110103512_createTables.Designer.cs" t="Include" />
+        <e p="DataContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Command.cs" t="Include" />
+        <e p="RoleModel.cs" t="Include" />
+        <e p="UserModel.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Commander.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Profiles" t="Include">
+        <e p="CommandProfile.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Repository" t="Include">
+        <e p="AuthenticationRepository.cs" t="Include" />
+        <e p="CommandRepository.cs" t="Include" />
+        <e p="DataContext.cs" t="Include" />
+        <e p="IAuthenticateRepository.cs" t="Include" />
+        <e p="ICommandRepository.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+    </e>
+  </component>
+</project>
